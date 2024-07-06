@@ -1,0 +1,16 @@
+.navbar {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  background-color: rgb(58, 18, 24);
+  color: rgb(204, 255, 0);
+  padding: 20px;
+}
+
+.navbar li {
+  padding: 0px 20px;
+}
+
+.navbar li a:hover {
+  color: rgb(204, 255, 0);
+}
